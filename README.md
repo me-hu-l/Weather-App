@@ -10,3 +10,4 @@ Here I have used the current weather API of weatherbit API service which respons
 The base URL is **https://api.weatherbit.io/v2.0/current**
 Further information can be found on https://www.weatherbit.io/api/weather-current
 
+Link to video of working project on google actions simulator: https://drive.google.com/file/d/1MWHv0ZBS1CMRXF2KVBsvJc5FqQB--2DB/view?usp=sharing
